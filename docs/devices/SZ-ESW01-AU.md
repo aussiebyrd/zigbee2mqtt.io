@@ -21,6 +21,9 @@ description: "Integrate your Sercomm SZ-ESW01-AU via Zigbee2MQTT with whatever s
 ### Pairing
 Press and hold the pairing button while plugging in the device.
 
+Note that the SZ-ESW01 and SZ-ESW01-AU only support the following Zigee channels:
+11, 14, 15, 19, 20, 24, 25
+
 
 ## Manual Home Assistant configuration
 Although Home Assistant integration through [MQTT discovery](../integration/home_assistant) is preferred,
