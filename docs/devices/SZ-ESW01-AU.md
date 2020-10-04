@@ -19,7 +19,7 @@ description: "Integrate your Sercomm SZ-ESW01-AU via Zigbee2MQTT with whatever s
 
 
 ### Pairing
-Press and hold the pairing button while plugging in the device.
+Press and hold the pairing button for 3 to 4 seconds prior to plugging in / switching on. Continue to hold while plugging in the device (for no more than approximately 2 seconds after plugging in).
 
 
 ## Manual Home Assistant configuration
